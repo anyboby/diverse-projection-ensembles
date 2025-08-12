@@ -1,0 +1,3 @@
+[submodule "envs/vizdoomgym"]
+	path = envs/vizdoomgym
+	url = https://github.com/anyboby/vizdoomgym.git
